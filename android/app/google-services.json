@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298988430873",
+    "project_id": "mixify-aa4c6",
+    "storage_bucket": "mixify-aa4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298988430873:android:49af882421acaa76e76c88",
+        "android_client_info": {
+          "package_name": "com.example.mixify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgQA0rkMCAujrBpxNlnfZc18dBkFloAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298988430873:android:94d33cf016e06295e76c88",
+        "android_client_info": {
+          "package_name": "com.example.scratch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgQA0rkMCAujrBpxNlnfZc18dBkFloAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
